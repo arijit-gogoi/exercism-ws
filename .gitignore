@@ -1,4 +1,4 @@
 *.exe
 target/**/*
 _build
-__pycache__
+python/**/__pycache__/**
