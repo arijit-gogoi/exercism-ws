@@ -1,0 +1,3 @@
+C:\Users\hp\scoop\apps\cmake\3.31.2\bin\cmake.exe -E rm -f CMakeFiles\lasagna.dir/objects.a
+C:\Users\hp\scoop\apps\mingw\current\bin\ar.exe qc CMakeFiles\lasagna.dir/objects.a @CMakeFiles\lasagna.dir\objects1.rsp
+C:\Users\hp\scoop\apps\mingw\current\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\lasagna.dir/objects.a -Wl,--no-whole-archive -o lasagna.exe -Wl,--out-implib,liblasagna.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lasagna.dir\linkLibs.rsp

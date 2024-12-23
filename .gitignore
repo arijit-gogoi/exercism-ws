@@ -2,3 +2,5 @@
 target/**/*
 _build
 python/**/__pycache__/**
+build
+build/**
